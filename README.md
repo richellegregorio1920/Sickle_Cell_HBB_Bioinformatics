@@ -94,3 +94,11 @@ Strong conservation indicates that a sequence has remained unchanged through evo
 
 ![Screenshot 5 - Variant Located in UCSC](screenshots/05_variant_in_ucsc.png)  
 *Figure 5. Precise mapping of coordinate chr11:5,227,002 inside Exon 1 of HBB.*
+
+----
+
+## Interpretation
+
+Knowing the exact location of a mutation is very important because a change in a coding exon can directly alter protein structure, whereas a change in an intron or regulatory region might affect RNA splicing or gene expression levels. This distinction explains why deleting three nucleotides yields a completely different outcome than deleting one nucleotide. Deleting three bases removes one whole codon while preserving the overall reading frame, whereas deleting a single nucleotide causes a frameshift that completely alters how all downstream bases are grouped into codons, changing the subsequent amino acid sequence and usually creating a premature stop codon. However, not every single DNA mutation changes the protein product or destroys its function. Due to the degeneracy of the genetic code, synonymous mutations change a codon without changing the encoded amino acid. Furthermore, even when an amino acid substitution does occur, conservative substitutions or changes outside active catalytic sites may preserve normal protein folding and activity. Conversely, when a frameshift or nonsense mutation introduces a premature stop codon, translation is terminated too early. This produces a truncated, incomplete peptide that typically lacks essential functional domains or undergoes nonsense-mediated mRNA decay, resulting in a non-functional gene product.
+
+
