@@ -111,4 +111,12 @@ Strong conservation indicates that a sequence has remained unchanged through evo
 
 3. **Limitation of location alone:** Location alone cannot prove whether a missense substitution destroys protein function or remains benign, which is why experimental assays, population statistics, and clinical findings are required to confirm true pathogenicity.
 
-4. **Most interesting observation:** It was fascinating to observe that a tiny single-base substitution (`A` to `T`) changing
+4. **Most interesting observation:** It was fascinating to observe that a tiny single-base substitution (`A` to `T`) changing just one amino acid in Exon 1 produces severe Sickle Cell Disease, whereas an artificial single-base deletion shifts the entire reading frame and introduces an early stop codon.
+
+---
+
+## References and Links
+
+* National Center for Biotechnology Information. (n.d.). *ClinVar: NM_000518.5(HBB):c.20A>T (p.Glu7Val)*. U.S. National Library of Medicine. https://www.ncbi.nlm.nih.gov/clinvar/variation/15333/
+* National Center for Biotechnology Information. (n.d.). *HBB: Hemoglobin subunit beta*. NCBI Gene. https://www.ncbi.nlm.nih.gov/gene/3043  
+* University of California, Santa Cruz. (n.d.). *UCSC Genome Browser*. https://genome.ucsc.edu/
