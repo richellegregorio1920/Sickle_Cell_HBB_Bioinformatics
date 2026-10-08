@@ -40,7 +40,7 @@ Selected transcript: NM_000518.5
 *Figure 2. Zoomed-in view showing the 3 exon blocks and connecting intron lines of HBB.*
 
 ---
-## 4. UCSC Annotation Tracks
+## Part D. UCSC Annotation Tracks
 
 - **A. Gene annotation track used:**
 The NCBI RefSeq and GENCODE V50 gene annotation tracks were used to examine the *HBB* gene.
@@ -77,3 +77,20 @@ Strong conservation indicates that a sequence has remained unchanged through evo
 
 ![Figure 4. ClinVar Variant Record](screenshots/04_clinvar_variant.png)  
 *Figure 4. NCBI ClinVar database entry for the pathogenic Sickle Cell mutation (15333).*
+
+----
+
+##. Part F. Locating the Variant in UCSC
+
+- **A. Where is the variant located relative to your gene?** The variant is located within Exon 1 of the *HBB* gene on chromosome 11 at GRCh38 position 5,227,002.
+
+- **B. Region classification:** It is located in a coding exon (Exon 1) of the *HBB* gene within the NM_000518.5 transcript.
+
+- **C. Coding vs. non-coding:** It is located in a coding region because it overlaps the coding sequence (CDS) of *HBB* and directly causes the protein substitution p.Glu7Val.
+
+- **D. Effect on gene product:** ClinVar classifies the variant as Pathogenic and identifies it as a missense substitution. The c.20A>T substitution replaces hydrophilic glutamic acid with hydrophobic valine at position 7 (p.Glu7Val). This change causes mutant hemoglobin S (HbS) molecules to polymerize under low oxygen conditions, causing red blood cells to become rigid and sickle-shaped.
+
+- **E. Additional evidence needed:** Additional evidence would include in vitro functional assays measuring hemoglobin polymerization and cell sickling, family pedigree segregation analysis, population allele frequency statistics (such as gnomAD), and clinical blood smear evaluation.
+
+![Screenshot 5 - Variant Located in UCSC](screenshots/05_variant_in_ucsc.png)  
+*Figure 5. Precise mapping of coordinate chr11:5,227,002 inside Exon 1 of HBB.*
