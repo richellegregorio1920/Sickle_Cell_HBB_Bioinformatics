@@ -61,3 +61,19 @@ Strong conservation indicates that a sequence has remained unchanged through evo
 *Figure 3. HBB gene model shown with the ClinVar variant track turned on.*
 
 ---
+
+## Part E. Selected ClinVar Variant
+
+| Item | Information |
+| :--- | :--- |
+| **a. Gene** | HBB |
+| **b. Variant name/HGVS description** | NM_000518.5(HBB):c.20A>T (p.Glu7Val) |
+| **c. rsID or ClinVar Variation ID/VCV accession** | rs334; Variation ID: 15333; VCV000015333 |
+| **d. Chromosome and genomic position** | Chromosome 11; GRCh38: chr11:5,227,002; cytogenetic location: 11p15.4 |
+| **e. Associated condition/disease** | Sickle cell disease |
+| **f. Clinical significance exactly as reported by ClinVar** | Pathogenic |
+| **g. Review status, if shown** | Practice guideline / Criteria provided, multiple submitters, no conflicts |
+| **h. ClinVar record URL** | https://www.ncbi.nlm.nih.gov/clinvar/variation/15333/ |
+
+![Figure 4. ClinVar Variant Record](screenshots/04_clinvar_variant.png)  
+*Figure 4. NCBI ClinVar database entry for the pathogenic Sickle Cell mutation (15333).*
