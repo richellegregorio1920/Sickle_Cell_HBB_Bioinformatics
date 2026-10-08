@@ -40,3 +40,24 @@ Selected transcript: NM_000518.5
 *Figure 2. Zoomed-in view showing the 3 exon blocks and connecting intron lines of HBB.*
 
 ---
+## 4. UCSC Annotation Tracks
+
+- **A. Gene annotation track used:**
+The NCBI RefSeq and GENCODE V50 gene annotation tracks were used to examine the *HBB* gene.
+
+- **B. ClinVar-related variant marks:**
+Yes. A dense cluster of ClinVar-related variant marks was visible directly underneath and within the *HBB* gene region when the ClinVar Variants track was turned on.
+
+- **C. Conservation of regions:**
+Yes. The 100 Vertebrates Conservation track showed strong conservation peaks across the *HBB* coding region.
+
+- **D. Location of conserved regions:**
+Strong conservation signals appeared primarily across all three coding exons of the *HBB* gene across vertebrate species.
+
+- **E. Why strong conservation suggests biological importance:**
+Strong conservation indicates that a sequence has remained unchanged through evolution. This suggests critical biological function, meaning nucleotide changes in these regions are often harmful and selected against.
+
+![Screenshot 3 - Annotation Tracks](screenshots/03_tracks.png)  
+*Figure 3. HBB gene model shown with the ClinVar variant track turned on.*
+
+---
