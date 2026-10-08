@@ -10,7 +10,7 @@
 - **Disease Description:** Sickle cell disease is an autosomal recessive blood disorder caused by pathogenic variants in the *HBB* gene. It leads to abnormal hemoglobin (HbS) that polymerizes under low oxygen conditions, turning red blood cells into rigid, sickle-shaped cells that cause hemolytic anemia and vaso-occlusion.
 
 ----
-## Part B UCSC-Gene Location
+## Part B. UCSC Gene Location
 
 - **Official Gene Symbol:** HBB
 - **Full Gene Name:** Hemoglobin subunit beta
@@ -21,6 +21,22 @@
 - **Approximate Gene Size:** ~1,608 base pairs (~1.6 kb)
 
 ![Screenshot 1 - Gene Location](screenshots/01_gene_location.png)  
-*Figure 1. Overview of the HBB gene location on Chromosome 11 in the UCSC Genome Browser
+*Figure 1. Overview of the HBB gene location on Chromosome 11 in the UCSC Genome Browser.*
+
+---
+
+## Part C. Exons, Introns, and Transcripts
+
+Selected transcript: NM_000518.5  
+
+| Parameter | Observation |
+| :--- | :--- |
+| **Number of exons identified** | 3 exons |
+| **Multiple transcripts/isoforms visible** | Multiple isoforms were visible across GENCODE and RefSeq tracks, though a single primary canonical transcript model (NM_000518.5) is prominently displayed. |
+| **Difference between an exon and an intron** | Exons are protein-coding or untranslated regions retained in mature mRNA after splicing, whereas introns are non-coding intervening sequences removed during RNA processing. |
+| **Relative length of introns and exons** | Introns generally appeared longer than exons, with Intron 2 taking up the largest portion of the gene structure relative to Exons 1 and 2. |
+
+![Screenshot 2 - Gene Structure](screenshots/02_gene_structure.png)  
+*Figure 2. Zoomed-in view showing the 3 exon blocks and connecting intron lines of HBB.*
 
 ---
